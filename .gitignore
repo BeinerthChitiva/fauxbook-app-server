@@ -1,0 +1,5 @@
+# These files are ignored, so if we push this code to a Github repository
+# we don't push our sensitive data.
+node_modules
+config.js
+config.md
